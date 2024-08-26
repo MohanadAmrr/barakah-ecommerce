@@ -54,6 +54,36 @@ The main screens of the application are:
 
 The project uses NativeWind for styling and the Fake Store API (https://fakestoreapi.com/) as the backend service.
 
+## App Screenshots
+
+Here are some screenshots of the app in action:
+
+### Product List Screen
+![Product List Screen](./screenshots/product_list.png)
+
+This screen shows the main product listing page. It includes:
+- A search bar for finding products
+- Category filters at the top
+- Product cards displaying images, names, and prices
+
+### Product Detail Screen
+![Product Detail Screen](./screenshots/product_detail.png)
+
+The product detail screen provides more information about a specific item:
+- Larger product image
+- Product title and price
+- Detailed description
+- Option to add the item to the cart
+
+### Cart Screen
+![Cart Screen](./screenshots/cart.png)
+
+The cart screen displays the items a user has added to their cart:
+- List of cart items with images, names, and prices
+- Quantity adjusters for each item
+- Total price calculation
+- Checkout button
+
 ## Contributing to Barakah E-commerce App
 
 To contribute to the Barakah E-commerce App, follow these steps:
