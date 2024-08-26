@@ -16,7 +16,7 @@ To install the Barakah E-commerce App, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/mohanadamrr/barakah-ecommerce-app.git](https://github.com/MohanadAmrr/barakah-ecommerce.git)
+   git clone https://github.com/mohanadamrr/barakah-ecommerce-app.git
    ```
 2. Navigate to the project directory:
    ```
